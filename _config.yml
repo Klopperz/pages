@@ -4,6 +4,6 @@ description: 'Chronicles of klopperz and all the coding involved'
 name: Klopperz
 github_username:  klopperz
 show_downloads: true
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
