@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Main
+layout: home
+title: "main"
 permalink: /
 ---
 
-:sunglasses:
+## Hi
