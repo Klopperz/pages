@@ -3,6 +3,7 @@ markdown: GFM
 description: 'Chronicles of klopperz and all the coding involved'
 name: Klopperz
 github_username:  klopperz
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
